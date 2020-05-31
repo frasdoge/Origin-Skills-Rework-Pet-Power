@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="6" build="0" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="Module" value="7ecbfc36-f681-4e55-84ce-16b46a67f4e9" type="23" />
+            <attribute id="Name" value="OriginSkillsReworkPetPower" type="23" />
+            <attribute id="Type" value="Add-on" type="23" />
+            <attribute id="UUID" value="7ef809f4-d3e4-4304-b3f0-5a062d35bff4" type="23" />
+        </node>
+    </region>
+</save>

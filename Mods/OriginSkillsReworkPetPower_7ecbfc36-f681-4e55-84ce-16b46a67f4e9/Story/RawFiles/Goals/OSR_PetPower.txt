@@ -1,0 +1,44 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "WarpInfusion", "INF_WARP_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "RangedInfusion", "INF_RANGED_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "PowerInfusion", "INF_POWER_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "ShadowInfusion", "INF_SHADOW_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "FireInfusion", "INF_FIRE_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "IceInfusion", "INF_BLESSED_ICE_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "ElectricInfusion", "INF_ELECTRIC_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "PoisonInfusion", "INF_POISON_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "NecrofireInfusion", "INF_NECROFIRE_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "WaterInfusion", "INF_WATER_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "AcidInfusion", "INF_ACID_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "CursedElectricInfusion", "INF_CURSED_ELECTRIC_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "OilInfusion", "INF_OIL_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "CursedOilInfusion", "INF_CURSED_OIL_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "BloodInfusion", "INF_BLOOD_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfSmallOSR_c651cb49-220a-4151-9b46-e5dbe955fdd5", "CursedBloodInfusion", "INF_CURSED_BLOOD_SOULWOLF");
+
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "WarpInfusion", "INF_WARP_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "RangedInfusion", "INF_RANGED_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "PowerInfusion", "INF_POWER_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "ShadowInfusion", "INF_SHADOW_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "FireInfusion", "INF_FIRE_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "IceInfusion", "INF_BLESSED_ICE_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "ElectricInfusion", "INF_ELECTRIC_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "PoisonInfusion", "INF_POISON_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "NecrofireInfusion", "INF_NECROFIRE_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "WaterInfusion", "INF_WATER_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "AcidInfusion", "INF_ACID_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "CursedElectricInfusion", "INF_CURSED_ELECTRIC_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "OilInfusion", "INF_OIL_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "CursedOilInfusion", "INF_CURSED_OIL_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "BloodInfusion", "INF_BLOOD_SOULWOLF");
+DB_CMP_SummoningImproved_Statuses("Summons_SoulWolfGiantOSR_e04ae411-86f9-4cc6-aa47-9306524a0148", "CursedBloodInfusion", "INF_CURSED_BLOOD_SOULWOLF");
+
+KBSECTION
+
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Start"
